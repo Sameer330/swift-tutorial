@@ -33,3 +33,12 @@ for i in 0...n {
     sum = sum + i;
 }
 print(sum);
+
+for i in stride(from: 0, to: n, by: 1) {
+    print("New for loop", i);
+}
+
+// Reversing
+for i in (1...n).reversed() {
+    print("Reversed", i);
+}
