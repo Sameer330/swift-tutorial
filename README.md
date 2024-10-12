@@ -20,3 +20,7 @@ Swift defines away large classes of common programming errors by adopting modern
 * Error handling allows controlled recovery from unexpected failures
 
 ### Run a file using command - `swift [file-name].swift`
+
+### Obtanined the Certificate - 11th October 2024
+
+Certificate - `https://drive.google.com/file/d/1H9u88xO9yKTSFEdnkoE9qsp6uN29ICL_/view`
